@@ -54,7 +54,7 @@ class Splash3 extends StatelessWidget {
                   ),
                   textColor: Colors.white,
                   color: Colors.blue[500],
-                  child: Text('Explore'),
+                  child: Text('Set it Now'),
                   onPressed: () {
                     Navigator.pushNamed(context, '/');
                   }),
