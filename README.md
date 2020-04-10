@@ -1,16 +1,7 @@
 # splashscreenui
 
-A new Flutter project.
+Design credit: :https://www.uplabs.com/posts/empty-state-collection-vol-1-es1
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![splash](https://user-images.githubusercontent.com/43111810/78999224-1b0b3a00-7b42-11ea-886c-1271badb4d55.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
